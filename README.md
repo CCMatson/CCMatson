@@ -12,5 +12,5 @@ I'm a software engineering fellow at General Assembly studying Full Stack develo
 
 I'm recently finished a MEN stack application utilizing Express JS, Node JS to collect and store recipe links; check out the "recipe-collector" pinned repo. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccmatson)](https://github.com/ccmatson/github-readme-stats)
 
