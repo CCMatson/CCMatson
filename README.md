@@ -15,4 +15,4 @@ I recently finished a PERN stack application that utililizes React and Typsescri
 When I'm not coding, I enjoy watching classic movies and going for hikes around Western Washington.
 
 ![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccmatson&hide=stars&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccmatson)](https://github.com/ccmatson/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccmatson&layout=compact)](https://github.com/ccmatson/github-readme-stats)
