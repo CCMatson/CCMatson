@@ -12,7 +12,5 @@ I'm a full-stack developer on the West Coast, and a graduate of General Assembly
 
 I recently finished a PERN stack application that utililizes React and Typsescript on the front-end, and postgreSQL on the back-end, so that users can collect, index, edit, and delete shoes from a shoe collection. Check it out in my pinned repos below!
 
-When I'm not coding, I enjoy watching classic movies and going for hikes around Western Washington.
+When I'm not coding, I enjoy watching movies and going for hikes around Western Washington.
 
-![Catherine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccmatson&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccmatson&layout=compact)](https://github.com/ccmatson/github-readme-stats)
